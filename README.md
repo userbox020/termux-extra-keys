@@ -1,3 +1,9 @@
+
+# Setup storage if you havent, is not needed for extra keys but it's something you going to use a lot
+
+termux-setup-storage
+
+
 # termux-extra-keys
 
 All Arrow Keys
